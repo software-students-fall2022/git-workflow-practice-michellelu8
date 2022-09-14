@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article: [Forget Silicon. This Computer is Made of Fabric](https://www.wired.com/story/fabric-nylon-computer-jacket-disability-aid/)
+## Why it's interesting
+I found this article interesting because it shows us the future of what fashion can become with technology. While techwear is trending, this is a huge step in showcasing what techwear can become down the line. It also depicts how blended technology will become with every aspect of life as we know it. 
